@@ -1,0 +1,9 @@
+# VSCodeの設定ファイル
+.vscode/
+
+# Pythonコンパイルのファイル
+__pycache__/
+
+# macOSで自動生成される隠しファイル
+.DS_Store
+

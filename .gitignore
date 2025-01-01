@@ -7,3 +7,8 @@ __pycache__/
 # macOSで自動生成される隠しファイル
 .DS_Store
 
+# 保存画像
+media/
+
+# バックアップファイル
+backup/
